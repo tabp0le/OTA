@@ -2,23 +2,27 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <pme>
-            <Filename>RR-N-v5.8.2-20170316-pme-Official.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170315-pme-Official.zip</Filename>
             <BuildUrl
                 id="build"
-                title="LatestBuild"
-                description="Download Latest Official Build">http://androidbuilds.spryservers.net/rr/pme/stable/RR-N-v5.8.2-20170316-pme-Official.zip</BuildUrl>
+                title="Latest Build"
+                description="Download latest official build">http://androidbuilds.spryservers.net/rr/pme/stable/RR-N-v5.8.2-20170315-pme-Official.zip</BuildUrl>
             <RomUrl
-                id="rom"
-                title="Rom"
-description="Download ResurrectionRemix builds">https://cloud.spryservers.net/s/czp5CY3MsGXEJyF?path=%2FResurrectionRemix%2FTabp0le%20Tweaked</RomUrl>
+                id="all_builds"
+                title="All builds"
+				description="All Builds">http://androidbuilds.spryservers.net/rr/pme</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+            <XdaThreadUrl
+            	id="xda_thread"
+            	title="XDA Thread"
+            	description="View the XDA forum thread for this ROM">https://forum.xda-developers.com/htc-10/development/rom-resurrectionremix-5-8-x-tabp0le-t3566225</XdaThreadUrl>
 	</pme>
     </Stable>
 </SlimOTA>
