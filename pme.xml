@@ -6,7 +6,7 @@
             <BuildUrl
                 id="build"
                 title="LatestBuild"
-                description="Download Latest Official Build">https://cloud.spryservers.net/s/czp5CY3MsGXEJyF/download?path=%2FResurrectionRemix%2FTabp0le%20Tweaked&files=RR-N-v5.8.2-20170315-pme-Official.zip</BuildUrl>
+                description="Download Latest Official Build">http://androidbuilds.spryservers.net/rr/pme/stable/RR-N-v5.8.2-20170316-pme-Official.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
