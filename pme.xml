@@ -2,11 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <pme>
-            <Filename>RR-N-v5.8.2-20170315-pme-Official.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170316-pme-Official.zip</Filename>
+            <BuildUrl
+                id="build"
+                title="LatestBuild"
+                description="Download Latest Official Build">https://cloud.spryservers.net/s/czp5CY3MsGXEJyF/download?path=%2FResurrectionRemix%2FTabp0le%20Tweaked&files=RR-N-v5.8.2-20170315-pme-Official.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Latest Official">https://cloud.spryservers.net/s/czp5CY3MsGXEJyF/download?path=%2FResurrectionRemix%2FTabp0le%20Tweaked&files=RR-N-v5.8.2-20170315-pme-Official.zip</RomUrl>
+description="Download ResurrectionRemix builds">https://cloud.spryservers.net/s/czp5CY3MsGXEJyF?path=%2FResurrectionRemix%2FTabp0le%20Tweaked</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -15,10 +19,6 @@
             	id="open_gapps"
             	title="Open"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-            <OldBuildsUrl
-            	id="Old_builds"
-            	title="All Builds"
-            	description="Build Download Archive">https://cloud.spryservers.net/s/czp5CY3MsGXEJyF?path=%2FResurrectionRemix%2FTabp0le%20Tweaked</OldBuildsUrl>
 	</pme>
     </Stable>
 </SlimOTA>
