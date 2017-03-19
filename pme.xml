@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <pme>
-            <Filename>RR-N-v5.8.2-20170319-pme-Release.zip</Filename>
+            <Filename></Filename>
             <BuildUrl
                 id="build"
                 title="Latest Build"
-                description="Download latest official build">http://androidbuilds.spryservers.net/rr/pme/stable/RR-N-v5.8.2-20170319-pme-Release.zip</BuildUrl>
+                description="Download latest official build">http://androidbuilds.spryservers.net/rr/pme/stable/</BuildUrl>
             <RomUrl
                 id="all_builds"
                 title="All builds"
