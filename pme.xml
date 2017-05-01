@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <pme>
-            <Filename>RR-N-v5.8.3-20170430-pme.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170501-pme-Official.zip</Filename>
             <BuildUrl
                 id="build"
                 title="Latest Build"
-                description="Download latest official build">http://androidbuilds.spryservers.net/rr/pme/stable/RR-N-v5.8.3-20170430-pme.zip</BuildUrl>
+                description="Download latest official build">http://androidbuilds.spryservers.net/rr/pme/stable/RR-N-v5.8.3-20170501-pme-Official.zip</BuildUrl>
             <MD5Url
                 id="md5"
                 title="Latest MD5"
-                description="Verify the latest build">http://androidbuilds.spryservers.net/rr/pme/stable/RR-N-v5.8.3-20170430-pme.zip.md5sum</MD5Url>
+                description="Verify the latest build">http://androidbuilds.spryservers.net/rr/pme/stable/RR-N-v5.8.3-20170501-pme-Official.zip.md5sum</MD5Url>
             <RomUrl
                 id="all_builds"
                 title="All builds"
